@@ -1,0 +1,7 @@
+Sweetness: Сardboard, Alenka, 5.8, 1000.0;
+Sweetness: Chocolate, Alenka, 2.2, 100.0;
+Sweetness: Iris, Meller.Chocolate, 5.38, 100.0;
+Sweetness: Candy, M&Ds, 5.8, 100.0;
+Sweetness: Candy, Rafaello, 21.0, 150.0;
+Sweetness: Chocolate, Milka, 5.05, 90.0;
+Sweetness: Marmalade, SourRings, 4.3, 80.0;

@@ -1,0 +1,12 @@
+Crown-500
+Old sword-259
+Coin-320
+Crown gold-1200
+Old book-98
+Diamond-2123
+Gold tooth-234
+Emerald-213
+Old vase-1234
+Sword Artur-2500
+Casket-900
+Sword-10000

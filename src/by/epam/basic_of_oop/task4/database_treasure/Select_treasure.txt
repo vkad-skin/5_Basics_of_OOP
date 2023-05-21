@@ -1,0 +1,4 @@
+Casket-900
+Coin-320
+Crown-500
+Gold tooth-234

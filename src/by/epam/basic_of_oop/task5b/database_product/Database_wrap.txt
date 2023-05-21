@@ -1,0 +1,4 @@
+Wrap: Сardboard, Gift_box, 5.0, 80.0;
+Wrap: Iron, Christmas box, 10.5, 400.0;
+Wrap: Wood, Сraft_box, 24.0, 300.0;
+Wrap: Paper, Gift_bag, 3.5, 5.0;
